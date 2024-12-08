@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096264888472",
+    "project_id": "aplicacion-movil-869bf",
+    "storage_bucket": "aplicacion-movil-869bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096264888472:android:ceb7f2e50a0047436720ed",
+        "android_client_info": {
+          "package_name": "com.example.examen_final_reclamos_einer_chavez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOvRNJVsDBV6xUqhXSgNWB7ayybqwf7eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
